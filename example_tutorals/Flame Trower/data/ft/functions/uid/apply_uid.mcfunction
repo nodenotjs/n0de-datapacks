@@ -1,0 +1,1 @@
+execute store result score @s fl.uid run scoreboard players add #current fl.uid 1
