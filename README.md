@@ -1,2 +1,2 @@
 # n0de-datapacks
-A collection of my datapacks
+A collection of some datapacks
